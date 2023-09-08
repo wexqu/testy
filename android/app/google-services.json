@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119444359954",
+    "project_id": "evby-d8587",
+    "storage_bucket": "evby-d8587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119444359954:android:6e7f47f075c2df91ec01cb",
+        "android_client_info": {
+          "package_name": "com.example.testy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119444359954-j0o45ep6i8gh71np56mlcira4j486epd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMh-KXNxGGJLZhy7bj1hZeQLiOzYdtaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119444359954-j0o45ep6i8gh71np56mlcira4j486epd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
